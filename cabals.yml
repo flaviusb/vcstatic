@@ -1,0 +1,32 @@
+-----
+cabals :
+ [
+{name: 'The Agency', faction: 'Pentacle', description: 'Investigators. Territory in One Tree Hill.'},
+{name: 'Astral Guard', faction: 'Pentacle', description: 'Academics. Territory in Botany Downs.'},
+{name: 'Aurorae', faction: 'Nephandi', description: 'Incursion Containment.  Territory in Bucklands Beach.'}
+{name: 'Bocage', faction: 'Timori', description: 'Lone mage. Voice of moderation. Territory in Remuera.'}
+{name: 'Cavaliers of Trentham', faction: 'Pentacle', description: 'Legacy cabal descended from “Orion”, the founder of the Covenant. Territory in Mt Albert.'}
+{name: 'Celestine Staff', faction: 'Pentacle', description: 'Politics and Influence. Territory on Waiheke Island.'}
+{name: 'Disciples of Hippocrates', faction: 'Pentacle', description: 'Medical care and clean-up. Territory in Mt Eden.'}
+{name: 'Economic Co-Development Fund', faction: 'Seers', description: 'Business based technology cabal.  Territory in Albany.'}
+{name: 'Emily Jefferson Foundation', faction: 'Seers', description: 'Medical and education cabal. Territory in Greenlane.'}
+{name: 'Falcon’s Shadow', faction: 'Pentacle', description: 'Guardian of the Veil only cabal. Territory in Glen Innes.'}
+{name: 'Freerunner', faction: 'Timori', description: 'Couriers & go-betweens.'}
+{name: 'Ghost Foxes', faction: 'Pentacle', description: 'Shadowrunners. Territory in Western Springs.'}
+{name: 'Green Strife', faction: 'Pentacle', description: 'Lone mage. Former eco-activists. Territory on Great Barrier Island.'}
+{name: 'Heavenly Sword', faction: 'Seers', description: 'Anti-supernatural combatants. Territory at Devonport Naval Base.'}
+{name: 'Iron Gauntlet', faction: 'Pentacle', description: 'Former rock band. Territory in Titirangi.'}
+{name: 'Management Advisory Group', faction: 'Seers', description: 'Business development and investment.  Territory in East Tamaki.'}
+{name: 'Omega Invictus', faction: 'Pentacle', description: 'Business focused corporation cabal. Territory PWC tower downtown Auckland'}
+{name: 'Progenitech', faction: 'Timori', description: 'Technology investors. Territory in East Tamaki.'}
+{name: 'The Shield', faction: 'Nephandi', description: 'Security Firm. Territory in New Lynn.'}
+{name: 'Silver Compass', faction: 'Pentacle', description: 'Explorers and investigators. Territory in Half Moon Bay.'}
+{name: 'Soul Crafters', faction: 'Pentacle', description: 'R&R venture. Territory on Great Barrier Island.'}
+{name: 'Southdown Crew', faction: 'Pentacle', description: 'Street and Underworld control. Territory in Manukau.'}
+{name: 'Tounges of Black Flame', faction: 'Nephandi', description: 'Occult Investigators. Territory in Manukau.'}
+{name: 'Tribunal', faction: 'Timori', description: 'Judicial system overseers. Territory in Newmarket.'}
+{name: 'Vox Auckland', faction: 'Nephandi', description: 'Nephandic Fortress. Territory in Westgate.'}
+{name: 'Watchmen Inc.', faction: 'Seers', descriptioon: 'Security and observation. Territory in Takapuna.'}
+{name: 'Westie Boyz', faction: 'Pentacle', description: 'Street and Industrial control. Territory in Sunnyvale. '}
+ ]
+-----
