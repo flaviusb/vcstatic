@@ -1,6 +1,5 @@
------
-cabals :
- [
+---
+cabals : [
 {name: 'The Agency', faction: 'Pentacle', description: 'Investigators. Territory in One Tree Hill.'},
 {name: 'Astral Guard', faction: 'Pentacle', description: 'Academics. Territory in Botany Downs.'},
 {name: 'Aurorae', faction: 'Nephandi', description: 'Incursion Containment.  Territory in Bucklands Beach.'},
@@ -27,6 +26,5 @@ cabals :
 {name: 'Tribunal', faction: 'Timori', description: 'Judicial system overseers. Territory in Newmarket.'},
 {name: 'Vox Auckland', faction: 'Nephandi', description: 'Nephandic Fortress. Territory in Westgate.'},
 {name: 'Watchmen Inc.', faction: 'Seers', descriptioon: 'Security and observation. Territory in Takapuna.'},
-{name: 'Westie Boyz', faction: 'Pentacle', description: 'Street and Industrial control. Territory in Sunnyvale. '}
- ]
------
+{name: 'Westie Boyz', faction: 'Pentacle', description: 'Street and Industrial control. Territory in Sunnyvale. '} ]
+---
