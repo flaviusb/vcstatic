@@ -25,6 +25,6 @@ cabals : [
 {name: 'Tounges of Black Flame', faction: 'Nephandi', description: 'Occult Investigators. Territory in Manukau.'},
 {name: 'Tribunal', faction: 'Timori', description: 'Judicial system overseers. Territory in Newmarket.'},
 {name: 'Vox Auckland', faction: 'Nephandi', description: 'Nephandic Fortress. Territory in Westgate.'},
-{name: 'Watchmen Inc.', faction: 'Seers', descriptioon: 'Security and observation. Territory in Takapuna.'},
+{name: 'Watchmen Inc.', faction: 'Seers', description: 'Security and observation. Territory in Takapuna.'},
 {name: 'Westie Boyz', faction: 'Pentacle', description: 'Street and Industrial control. Territory in Sunnyvale. '} ]
 ---
