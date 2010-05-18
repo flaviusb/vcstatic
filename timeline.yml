@@ -426,7 +426,7 @@ events: [
 },
 { year: "1877",
   events: [
-    { event: "Education Act passed, establishing national system of primary education, "free, secular, and compulsory"."}
+    { event: "Education Act passed, establishing national system of primary education, \"free, secular, and compulsory\"."}
   ]
 },
 { year: "1878",
