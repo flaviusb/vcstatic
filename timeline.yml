@@ -36,7 +36,7 @@ events: [
     { event: "Cook maps the majority of the New Zealand coastline."},
     { event: "French trader Jean de Surville explores parts of the New Zealand coast."}
   ]
-}
+},
 { year: "1772",
   events: [
     { event: "April Expedition of French explorer Marc-Joseph Marion du Fresne visits Northland"}
@@ -84,7 +84,7 @@ events: [
   events: [
     { event: "First European women arrive in New Zealand."}
   ]
-}
+},
 { year: "1807",
   events: [
     { event: "Ngapuhi fight Ngāti Whātua, Te-Uri-o-Hau and Te Roroa iwi at the battle of Moremonui on the west coast of Northland, the first battle in which Maori used muskets."}
@@ -100,7 +100,7 @@ events: [
     { date: "22 December", event: "British missionary Samuel Marsden, of the (Anglican) Church Missionary Society, arrives at Rangihoua at Oihi Bay in the Bay of Islands to establish the country's first mission station. Sheep, cattle, horses and poultry are introduced." },
     { event: "Christmas Day Rev Marsden preached the first Christian service in the country, at Rangihoua."}
   ]
-}
+},
 { year: "1815",
   events: [
     { event: "February Thomas Holloway King is the first European child born in New Zealand, at Rangihoua."}
@@ -162,7 +162,7 @@ events: [
   events: [
     { event: "May James Busby arrives at the Bay of Islands."}
   ]
-}
+},
 { year: "1834",
   events: [
     { event: "March United Tribes of New Zealand flag adopted by some 25 northern chiefs at Busby's suggestion." }
@@ -231,7 +231,7 @@ events: [
     { event: "Hone Heke begins the \"War in the North\"."},
     { event: "New Zealand Company suspends its colonising operations due to financial difficulties."}
   ]
-}
+},
 { year: "1845",
   events: [
     { event: "George Grey becomes Governor."}
@@ -263,7 +263,7 @@ events: [
   events: [
     { event: "Canterbury settlement founded."}
   ]
-}
+},
 { year: "1852",
   events: [
     { event: "Second New Zealand Constitution Act passed creating General Assembly and six provinces with representative government."}
@@ -300,7 +300,7 @@ events: [
     { event: "New Provinces Act passed."},
     { event: "Te Wherowhero installed as first Māori King, taking name Pōtatau I."}
   ]
-}
+},
 { year: "1859",
   events: [
     { event: "First session of Hawke's Bay and Marlborough provincial councils."},
@@ -433,7 +433,7 @@ events: [
   events: [
     { event: "Completion of Main South Line railway linking Christchurch, Dunedin, and Invercargill."}
   ]
-}
+},
 { year: "1879",
   events: [
     { event: "Triennial Parliaments Act passed. Manhood suffrage is extended to non-Māori when the vote is given to every male aged 21 and over." },
@@ -442,7 +442,7 @@ events: [
     { event: "Kangaroo lays the first reliable telegraph cable across Cook Strait."},
     { date: "28 August", event: "New Zealand general election, 1879 all men enfranchised." }
   ]
-}
+},
 { year: "1881",
   events: [
     { event: "Parihaka community forcibly broken up by troops. Te Whiti, Tohu Kakahi and followers arrested and imprisoned."},
