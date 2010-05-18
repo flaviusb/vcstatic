@@ -27,7 +27,7 @@ events: [
 },
 { year: "1700–1730",
   events: [
-    { event: "Ngāi Tahu migrate from Wellington to the South Island, as far south as Banks Peninsula."},
+    { event: "Ngāi Tahu migrate from Wellington to the South Island, as far south as Banks Peninsula."}
   ]
 },
 { year: "1769",
@@ -188,7 +188,7 @@ events: [
 { year: "1839",
   events: [
     { event: "William Hobson instructed to establish British rule in New Zealand, as a dependency of New South Wales."},
-    { event: "Colonel William Wakefield of the New Zealand Company arrives on the Tory to purchase land for a settlement."},
+    { event: "Colonel William Wakefield of the New Zealand Company arrives on the Tory to purchase land for a settlement."}
   ]
 }
 ]
@@ -311,7 +311,7 @@ events: [
 { year: "1860",
   events: [
     { event: "Waitara dispute develops into First Taranaki War."},
-    { date: "12 December", event: "New Zealand general election, 1860-1861." },
+    { date: "12 December", event: "New Zealand general election, 1860-1861." }
   ]
 },
 { year: "1861",
@@ -1099,7 +1099,7 @@ events: [
     { date: "10 July", event: "Decimal currency introduced, the New Zealand Dollar." },
     { event: "Lord Arthur Porritt becomes first New Zealand-born Governor-General."},
     { event: "Breath and blood tests introduced for suspected drinking drivers."},
-    { event: "Denny Hulme becomes New Zealand's first (and currently only) Formula 1 World Champion." },
+    { event: "Denny Hulme becomes New Zealand's first (and currently only) Formula 1 World Champion." }
   ]
 },
 { year: "1968",
@@ -1199,7 +1199,7 @@ events: [
     { event: "Carless days introduced to reduce petrol consumption."},
     { event: "Fifth Gate Cabal established."},
     { date: "7 November", event: "MP Matiu Rata resigns from the Labour Party to join Mana Motuhake Party." },
-    { event: "Nambassa 3 day music and alternatives festival held in Waihi. Largest event of its kind in New Zealand." },
+    { event: "Nambassa 3 day music and alternatives festival held in Waihi. Largest event of its kind in New Zealand." }
   ]
 },
 { year: "1980",
