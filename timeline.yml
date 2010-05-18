@@ -959,7 +959,7 @@ events: [
 },
 { year: "1949",
   events: [
-    { date: "1 January", event: "New Zealanders become "British Subjects and New Zealand Citizens"" },
+    { date: "1 January", event: "New Zealanders become \"British Subjects and New Zealand Citizens\"" },
     { event: "Referendum agrees to compulsory military training."},
     { event: "New Zealand gets first four navy frigates."},
     { date: "30 November", event: "General election: National Government elected." }
