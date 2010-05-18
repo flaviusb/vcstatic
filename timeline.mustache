@@ -1,0 +1,13 @@
+<h1>Timeline</h1>
+<br/>
+{{#time}}
+{{#epoch}}
+  <h2> {{name}} </h2>
+  <br />
+  <ul>
+  {{#events}}
+    <li> {{year}} <br /> {{#events}} {{date}} - <em>{{event}}</em><br /> {{#events}}</li>
+  {{/events}}
+  </ul>
+{{/epoch}}
+{{/time}}

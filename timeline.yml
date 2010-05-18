@@ -1,0 +1,1528 @@
+---
+time : [
+{ epoch: 
+{ name: "Pre-Colonial Timeline (1000 to 1839)"
+events: [
+{ year : "~1000 - 1300",
+  events: [
+    {event: "Most likely period of discovery and settlement of New Zealand by Polynesian people." }
+  ]
+},
+{ year: "1500",
+  events: [
+    { event: "Rangitoto Island, near Auckland, was formed by a series of eruptions. While it is not expected to erupt again, the broader Auckland volcanic field is."}
+  ]
+},
+{ year: "1576",
+  events: [
+    { event: "Speculation exists that around this time Spanish explorer Juan Fernández visited New Zealand although this is not generally accepted by most reputable authorities."}
+  ]
+},
+{ year: "1642",
+  events: [
+    { date: "13 December", event: "Dutch explorer Abel Tasman sights the South Island. Initially he called it Staten Landt and changed it a year later to Nieuw Zeeland."},
+    { date: "18 December", event: "Abel Tasman's expedition sails around Farewell Spit and into Golden Bay. Dutch sailors sight local Māori."},
+    { date: "19 December Māori kill four of Tasman's crew and Tasman's ships depart without landing. The Dutch chart the west of the North Island."}
+  ]
+},
+{ year: "1700–1730",
+  events: [
+    { event: "Ngāi Tahu migrate from Wellington to the South Island, as far south as Banks Peninsula."},
+  ]
+},
+{ year: "1769",
+  events: [
+    { date: "8 October", event: "English explorer James Cook makes his first visit to New Zealand on board the Endeavour."},
+    { event: "Cook maps the majority of the New Zealand coastline."},
+    { event: "French trader Jean de Surville explores parts of the New Zealand coast."}
+  ]
+}
+{ year: "1772",
+  events: [
+    { event: "April Expedition of French explorer Marc-Joseph Marion du Fresne visits Northland"}
+  ]
+},
+{ year: "1773",
+  events: [
+    { event: "April Cook's second expedition arrives in Queen Charlotte Sound"},
+    { date: "18 December", event: "Māori kill and eat fourteen members of Cook's expedition at Grass Cove in Queen Charlotte Sound." }
+  ]
+},
+{ year: "1777",
+  events: [
+    { event: "Cook returns to New Zealand aboard the Resolution, accompanied by the Discovery captained by Charles Clerke."}
+  ]
+},
+{ year: "1788",
+  events: [
+    { event: "New South Wales founded, which according to Governor Phillip's Commission included the islands of New Zealand."}
+  ]
+},
+{ year: "1790",
+  events: [
+    { event: "An epidemic of rewha-rewha (possibly influenza) kills 60% of the Māori population in the southern North Island."}
+  ]
+},
+{ year: "1791",
+  events: [
+    { date: "29 November", event: "Chatham Islands sighted by HMS Chatham commanded by William Broughton." }
+  ]
+},
+{ year: "1792",
+  events: [
+    { event: "Group of sealers from the Britannia landed in Dusky Sound."}
+  ]
+},
+{ year: "1793",
+  events: [
+    { event: "Dusky Sound sealers picked up."},
+    { event: "A Spanish expedition led by Italian explorer Alessandro Malaspina charts Doubtful Sound."},
+    { event: "La Recherche and L'Espérance, captained by Bruni d'Entrecasteaux and Jean-Michel Huon de Kermadec sight New Zealand and the Kermadec Islands."}
+  ]
+},
+{ year: "1806",
+  events: [
+    { event: "First European women arrive in New Zealand."}
+  ]
+}
+{ year: "1807",
+  events: [
+    { event: "Ngapuhi fight Ngāti Whātua, Te-Uri-o-Hau and Te Roroa iwi at the battle of Moremonui on the west coast of Northland, the first battle in which Maori used muskets."}
+  ]
+},
+{ year: "1809",
+  events: [
+    { event: "Ngati Uru attack and burn the ship Boyd, killing and eating all but four of its crew and passengers. The whaling fleet wrongly blames the massacre on Te Puna chief Te Pahi and retaliates against him."}
+  ]
+},
+{ year: "1814",
+  events: [
+    { date: "22 December", event: "British missionary Samuel Marsden, of the (Anglican) Church Missionary Society, arrives at Rangihoua at Oihi Bay in the Bay of Islands to establish the country's first mission station. Sheep, cattle, horses and poultry are introduced." },
+    { event: "Christmas Day Rev Marsden preached the first Christian service in the country, at Rangihoua."}
+  ]
+}
+{ year: "1815",
+  events: [
+    { event: "February Thomas Holloway King is the first European child born in New Zealand, at Rangihoua."}
+  ]
+},
+{ year: "1819",
+  events: [
+    { event: "Raids on Taranaki and Te Whanganui-a-tara regions by Ngapuhi and Ngati Toa people led by chiefs Patuone, Nene, Moetara, Tuwhare, and Te Rauparaha."},
+    { date: "17 August", event: "The country's second mission station is established, at Kerikeri, when Rev Marsden, John Butler, Francis Hall and William Hall mark out the site which was previously visited by Marsden in 1815." },
+    { date: "25 September", event: "Rev Marsden plants 100 vines, the first grapes grown in New Zealand." },
+    { date: "4 November", event: "Chiefs Hongi Hika and Rewa sell 13,000 acres (5260 hectares) at Kerikeri to the Church Missionary Society for 48 felling axes." }
+  ]
+},
+{ year: "1820",
+  events: [
+    { event: "Hongi Hika, Ngapuhi chief, visits England, meets King George IV and secures supply of muskets."}
+  ]
+},
+{ year: "1821",
+  events: [
+    { event: "Musket Wars begin with raids by Hongi Hika and Te Morenga on southern iwi and continue throughout the decade."}
+  ]
+},
+{ year: "1822",
+  events: [
+    { event: "Ngati Toa begin migration south to Cook Strait region, led by Te Rauparaha."}
+  ]
+},
+{ year: "1823",
+  events: [
+    { event: "Jurisdiction of New South Wales courts is extended to British citizens in New Zealand."},
+    { event: "First Wesleyan Missionary Society mission established, at Whangaroa."},
+    { event: "First Church of England marriage between Philip Tapsell and Māori girl, Maria Ringa."}
+  ]
+},
+{ year: "1824",
+  events: [
+    { event: "Te Heke Niho-puta migration of Taranaki iwi to the Kapiti Coast."}
+  ]
+},
+{ year: "1827",
+  events: [
+    { event: "Te Rauparaha's invasion of the South Island from Kapiti begins."}
+  ]
+},
+{ year: "1831",
+  events: [
+    { event: "Whaling stations established at Tory Channel and Preservation Inlet."}
+  ]
+},
+{ year: "1832",
+  events: [
+    { date: "19 April", event: "Stonemason William Parrott begins work on the missionaries' Stone Store at Kerikeri." },
+    { event: "James Busby appointed British Resident."},
+    { event: "Silver Branch Consilium established in the Bay of Islands with the Chancery located in Russell."}
+  ]
+},
+{ year: "1833",
+  events: [
+    { event: "May James Busby arrives at the Bay of Islands."}
+  ]
+}
+{ year: "1834",
+  events: [
+    { event: "March United Tribes of New Zealand flag adopted by some 25 northern chiefs at Busby's suggestion." }
+  ]
+},
+{ year: "1835",
+  events: [
+    { date: "April", event: "22 Weslyan Missionaries extend south beyond their main base at Hokianga to the Waikato Coast, among them James and Mary Wallis." },
+    { event: "October Declaration of Independence of New Zealand by the \"Confederation of United Tribes\" signed by 34 northern chiefs (and later by another 18)." }
+  ]
+},
+{ year: "1837",
+  events: [
+    { event: "Captain William Hobson sent by New South Wales Governor to report on New Zealand. He suggested a treaty with the Māori and imposition of British Law."},
+    { event: "New Zealand Association formed in London, becoming the New Zealand Colonisation Society in 1838 and the New Zealand Company in 1839, under the inspiration of Edward Gibbon Wakefield." }
+  ]
+},
+{ year: "1838",
+  events: [
+    { event: "Bishop Pompallier founds Roman Catholic Mission at Hokianga."}
+  ]
+},
+{ year: "1839",
+  events: [
+    { event: "William Hobson instructed to establish British rule in New Zealand, as a dependency of New South Wales."},
+    { event: "Colonel William Wakefield of the New Zealand Company arrives on the Tory to purchase land for a settlement."},
+  ]
+}
+]
+},
+{ name: "Colony and self-government (1840 to 1946)",
+  events: [
+{ year: "1840",
+  events: [
+    { date: "22 January", event: "New Zealand Company settlers arrive aboard the Aurora at Te Whanganui a Tara which becomes Port Nicholson, site of Wellington." },
+    { date: "29 January", event: "Hobson arrives in the Bay of Islands." },
+    { date: "6 February", event: "Hone Heke is the first to sign the Treaty of Waitangi at Bay of Islands." },
+    { date: "21 May", event: "Hobson proclaims British sovereignty over New Zealand. The North Island by treaty and the South Island by discovery." },
+    { event: "May First capital established at Okiato, which was renamed Russell."},
+    { event: "August French colony established in Akaroa."},
+    { event: "Hobson becomes first Governor and sets up executive and legislative councils."},
+    { event: "Rawiri Taiwhanga in Bay of Islands is running the first dairy farm in New Zealand, near Kaikohe."}
+  ]
+},
+{ year: "1841",
+  events: [
+    { event: "European settlements established at New Plymouth and Wanganui."},
+    { event: "February Capital shifted from Russell (Okiato) to Auckland."},
+    { date: "3 May", event: "New Zealand proclaimed a colony independent of New South Wales." }
+  ]
+},
+{ year: "1842",
+  events: [
+    { event: "Main body of settlers arrive at Nelson."},
+    { date: "10 September", event: "William Hobson dies." }
+  ]
+},
+{ year: "1843",
+  events: [
+    { event: "Twenty-two European settlers and four Māori killed at the confrontation at Tuamarina, near the Wairau, in Marlborough."},
+    { event: "Robert FitzRoy becomes Governor."}
+  ]
+},
+{ year: "1844",
+  events: [
+    { event: "Hone Heke begins the \"War in the North\"."},
+    { event: "New Zealand Company suspends its colonising operations due to financial difficulties."}
+  ]
+}
+{ year: "1845",
+  events: [
+    { event: "George Grey becomes Governor."}
+  ]
+},
+{ year: "1846",
+  events: [
+    { event: "War in the north ends with capture of Ruapekapeka."},
+    { event: "First Constitution Act passed."},
+    { event: "Charles Heaphy, William Fox, and Thomas Brunner begin exploring the West Coast."},
+    { event: "First steam vessel, HMS Driver, arrives in New Zealand waters."}
+  ]
+},
+{ year: "1848",
+  events: [
+    { event: "Settlement of Dunedin founded by Scottish Otago Association."},
+    { event: "Provinces of New Ulster and New Munster set up under 1846 Act."},
+    { event: "Coal discovered at Brunner on the West Coast."},
+    { event: "Earthquake centred in Marlborough damages most Wellington buildings."},
+    { event: "Southern Cross Consilium established in Auckland."}
+  ]
+},
+{ year: "1848",
+  events: [
+    { event: "Cavaliers of Trentham Cabal established."}
+  ]
+},
+{ year: "1850",
+  events: [
+    { event: "Canterbury settlement founded."}
+  ]
+}
+{ year: "1852",
+  events: [
+    { event: "Second New Zealand Constitution Act passed creating General Assembly and six provinces with representative government."}
+  ]
+},
+{ year: "1853",
+  events: [
+    { event: "Idea of a Māori King canvassed by Tamihana Te Rauparaha and Matene Te Whiwhi."},
+    { event: "About 100 Māori - mostly chiefs - enrolled to vote in the forthcoming election."},
+    { date: "4 July", event: "New Zealand general election, 1853" }
+  ]
+},
+{ year: "1854",
+  events: [
+    { event: "First session of the General Assembly opens in Auckland."}
+  ]
+},
+{ year: "1855",
+  events: [
+    { event: "Governor Thomas Gore Browne, appointed in 1854, arrives."},
+    { event: "Severe earthquake on both sides of Cook Strait. Wellington's Basin Reserve is raised, dashing plans to use it for boats."},
+    { event: "Adhesive postage stamps on sale."},
+    { date: "28 October", event: "New Zealand general election, 1855." }
+  ]
+},
+{ year: "1856",
+  events: [
+    { event: "Henry Sewell forms first ministry under responsible government and becomes first Premier."},
+    { event: "Edward Stafford forms first stable ministry."}
+  ]
+},
+{ year: "1858",
+  events: [
+    { event: "New Provinces Act passed."},
+    { event: "Te Wherowhero installed as first Māori King, taking name Pōtatau I."}
+  ]
+}
+{ year: "1859",
+  events: [
+    { event: "First session of Hawke's Bay and Marlborough provincial councils."},
+    { event: "Gold discovered in Buller River."},
+    { event: "New Zealand Insurance Company established."}
+  ]
+},
+{ year: "1860",
+  events: [
+    { event: "Waitara dispute develops into First Taranaki War."},
+    { date: "12 December", event: "New Zealand general election, 1860-1861." },
+  ]
+},
+{ year: "1861",
+  events: [
+    { event: "George Grey becomes governor for the second time."},
+    { event: "May Gabriel Read discovers gold in Gabriel's Gully near Lawrence; Central Otago Gold Rush begins."},
+    { event: "First session of Southland provincial council."},
+    { event: "Bank of New Zealand incorporated at Auckland."}
+  ]
+},
+{ year: "1862",
+  events: [
+    { event: "First electric telegraph line opens from Christchurch to Lyttelton."},
+    { event: "First gold shipment from Dunedin to London."}
+  ]
+},
+{ year: "1863",
+  events: [
+    { event: "War resumes in Taranaki and begins in Waikato when General Cameron crosses the Mangatawhiri stream."},
+    { event: "New Zealand Settlements Act passed to effect land confiscation."},
+    { event: "First steam railway in New Zealand, the Ferrymead Railway opened."},
+    { date: "7 February", event: "HMS Orpheus sinks in Manukau Harbour, killing 189 people." }
+  ]
+},
+{ year: "1864",
+  events: [
+    { event: "War in the Waikato ends with battle of Orakau."},
+    { event: "Land in Waikato, Taranaki, Bay of Plenty, and Hawke's Bay confiscated."},
+    { event: "Gold discovered in Marlborough and Westland."},
+    { event: "Arthur, George, and Edward Dobson are the first Pākehā to cross what becomes known as Arthur's Pass."}
+  ]
+},
+{ year: "1865",
+  events: [
+    { event: "Capital and seat of government transferred from Auckland to Wellington"},
+    { event: "Native Land Court established."},
+    { event: "Māori resistance continues."},
+    { event: "Auckland streets lit by gas for first time."}
+  ]
+},
+{ year: "1866",
+  events: [
+    { event: "First (unreliable) Cook Strait submarine telegraph cable laid."},
+    { event: "Christchurch to Hokitika road opens."},
+    { event: "Cobb and Co. coaches run from Canterbury to the West Coast."},
+    { event: "The Presbytery of Otago separates into three presbyteries and becomes the Synod of Otago and Southland."},
+    { event: "Jan–Feb Trevor Chute leads raids against Maro in Taranaki"},
+    { date: "12 February", event: "New Zealand general election, 1866." }
+  ]
+},
+{ year: "1867",
+  events: [
+    { event: "Thames goldfield opens; soon the town has more people than Auckland."},
+    { event: "Four Māori seats established in Parliament. All Māori men over 21 obtained suffrage (allowed to stand for parliament and vote)." },
+    { event: "Lyttelton railway tunnel completed."},
+    { event: "Armed constabulary established."}
+  ]
+},
+{ year: "1868",
+  events: [
+    { event: "Māori resistance continues through campaigns of Te Kooti Arikirangi and Titokowaru."},
+    { event: "New Zealand's first sheep breed, the Corriedale, is developed."}
+  ]
+},
+{ year: "1869",
+  events: [
+    { event: "New Zealand population exceeds 1 million. "},
+    { event: "Thomas Burns founds New Zealand's first university, the University of Otago, in Dunedin."}
+  ]
+},
+{ year: "1870",
+  events: [
+    { event: "The last imperial forces leave New Zealand."},
+    { event: "Julius Vogel's public works and immigration policy begins, along with national railway construction programme; over 1,000 miles constructed by 1879."},
+    { event: "University of New Zealand created by the New Zealand University Act, establishing a federal university based on the University of London, which lasts until 1961."},
+    { event: "First rugby match."},
+    { event: "Auckland to San Francisco mail service begins."}
+  ]
+},
+{ year: "1871",
+  events: [
+    { event: "Deer freed in Otago."},
+    { date: "14 January", event: "New Zealand general election, 1871." }
+  ]
+},
+{ year: "1872",
+  events: [
+    { event: "Te Kooti retreats to the King Country and Māori armed resistance ceases."},
+    { event: "Telegraph communication links Auckland, Wellington and southern provinces."}
+  ]
+},
+{ year: "1873",
+  events: [
+    { event: "New Zealand Shipping Company established."}
+  ]
+},
+{ year: "1874",
+  events: [
+    { event: "First New Zealand steam engine built at Invercargill."}
+  ]
+},
+{ year: "1875",
+  events: [
+    { date: "20 December", event: "New Zealand general election, 1875-1876." }
+  ]
+},
+{ year: "1876",
+  events: [
+    { event: "Abolition of the provinces and establishment of local government by counties and boroughs."},
+    { event: "New Zealand-Australia telegraph cable established."}
+  ]
+},
+{ year: "1877",
+  events: [
+    { event: "Education Act passed, establishing national system of primary education, "free, secular, and compulsory"."}
+  ]
+},
+{ year: "1878",
+  events: [
+    { event: "Completion of Main South Line railway linking Christchurch, Dunedin, and Invercargill."}
+  ]
+}
+{ year: "1879",
+  events: [
+    { event: "Triennial Parliaments Act passed. Manhood suffrage is extended to non-Māori when the vote is given to every male aged 21 and over." },
+    { event: "Kaitangata mine explosion, 68 people die." },
+    { event: "Annual property tax introduced."},
+    { event: "Kangaroo lays the first reliable telegraph cable across Cook Strait."},
+    { date: "28 August", event: "New Zealand general election, 1879 all men enfranchised." }
+  ]
+}
+{ year: "1881",
+  events: [
+    { event: "Parihaka community forcibly broken up by troops. Te Whiti, Tohu Kakahi and followers arrested and imprisoned."},
+    { event: "Wreck of SS Tararua, 131 people die." },
+    { event: "Auckland and Christchurch telephone exchanges open."},
+    { date: "9 December", event: "New Zealand general election, 1881." }
+  ]
+},
+{ year: "1882",
+  events: [
+    { event: "First shipment of frozen meat leaves Port Chalmers for England on the Dunedin."}
+  ]
+},
+{ year: "1883",
+  events: [
+    { event: "Te Kooti pardoned, Te Whiti and other prisoners released."},
+    { event: "Direct steamer link established between New Zealand and Britain."}
+  ]
+},
+{ year: "1884",
+  events: [
+    { event: "King Tawhiao visits England with petition to the Queen, appealing to the Treaty of Waitangi, and is refused access."},
+    { event: "Consilium of Larnach established in Dunedin."},
+    { event: "First overseas tour by a New Zealand rugby team, to New South Wales."},
+    { event: "Construction of King Country section of North Island main trunk railway begins."},
+    { date: "22 June", event: "New Zealand general election, 1884." }
+  ]
+},
+{ year: "1886",
+  events: [
+    { event: "Mount Tarawera erupts and the Pink and White Terraces are destroyed, 377 people die." },
+    { event: "Oil is discovered in Taranaki."},
+    { event: "Voidwalkers Cabal established."}
+  ]
+},
+{ year: "1887",
+  events: [
+    { event: "Work begins on Auckland Metropolitan Sewer Network. Constructed out of brick, tile and ceramic, it is designed to service the CBD and the inner suburbs, as well as Avondale, Onehunga and Otahuhu. "},
+    { event: "New Zealand's first national park, Tongariro National Park, is presented to the nation by Te Heuheu Tukino IV."},
+    { event: "First inland parcel post service."},
+    { date: "26 September", event: "New Zealand general election, 1887." }
+  ]
+},
+{ year: "1888",
+  events: [
+    { date: "12 August", event: "Reefton becomes first town in the Southern Hemisphere to have a public supply of electricity after the commissioning of the Reefton Power Station." }
+  ]
+},
+{ year: "1889",
+  events: [
+    { event: "Abolition of non-residential or property qualification to vote."},
+    { event: "First New Zealand-built locomotive completed at Addington Workshops."}
+  ]
+},
+{ year: "1890",
+  events: [
+    { event: "A maritime strike in Australia spreads to New Zealand, involving 12,000 unionists."},
+    { event: "\"Sweating\" Commission reports on employment conditions." },
+    { date: "5 December", event: "New Zealand general election, 1890, the first election on a one-man one-vote basis" }
+  ]
+},
+{ year: "1891",
+  events: [
+    { event: "John McKenzie introduces the first of a series of measures to promote closer land settlement."},
+    { event: "John Ballance becomes Premier of first Liberal Government."}
+  ]
+},
+{ year: "1892",
+  events: [
+    { event: "First Kotahitanga Māori Parliament meets."}
+  ]
+},
+{ year: "1893",
+  events: [
+    { date: "27 April", event: "John Ballance dies" },
+    { event: "John Ballance succeeded as premier by Richard Seddon."},
+    { date: "19 September", event: "All women given the right to vote, New Zealand becomes first country to grant universal suffrage and plural voting abolished." },
+    { event: "Liquor licensing poll introduced."},
+    { event: "Elizabeth Yates, Onehunga, becomes first woman mayor in British Empire."},
+    { event: "Banknotes become legal tender."},
+    { date: "28 November", event: "New Zealand general election, 1893." }
+  ]
+},
+{ year: "1894",
+  events: [
+    { event: "Compulsory arbitration of industrial disputes and reform of employment laws."},
+    { event: "Advances to Settlers Act."},
+    { event: "Clark, Fyfe and Graham become the first people to climb Mt Cook."},
+    { event: "Wreck of SS Wairarapa."}
+  ]
+},
+{ year: "1896",
+  events: [
+    { event: "National Council of Women is founded."},
+    { event: "Brunner Mine explosion, 113 people killed." },
+    { event: "Census measures national population as 1,486,429."},
+    { date: "13 October", event: "First public screening of a motion picture in New Zealand" },
+    { date: "4 December", event: "New Zealand general election, 1896." }
+  ]
+},
+{ year: "1897",
+  events: [
+    { event: "First of series of colonial and later imperial conferences held in London."},
+    { event: "Apirana Ngata and others form Te Aute College Students' Association."}
+  ]
+},
+{ year: "1898",
+  events: [
+    { event: "Old Age Pensions Act."},
+    { event: "First cars imported to New Zealand."}
+  ]
+},
+{ year: "1899",
+  events: [
+    { event: "New Zealand army contingent is sent to the South African war."},
+    { event: "First celebration of Labour Day."},
+    { date: "6 December", event: "New Zealand general election, 1899." }
+  ]
+},
+{ year: "1900",
+  events: [
+    { event: "Māori Councils Act passed."},
+    { event: "Public Health Act passed setting up Department of Public Health in 1901."}
+  ]
+},
+{ year: "1901",
+  events: [
+    { event: "Cook and other Pacific Islands annexed."},
+    { event: "Penny postage first used."},
+    { event: "Union of the Synod of Otago and Southland with the Northern Presbyterian Church to form the Presbyterian Church of Aotearoa New Zealand."}
+  ]
+},
+{ year: "1902",
+  events: [
+    { event: "Pacific telegraph cable begins operating between New Zealand, Australia and Fiji."},
+    { event: "Feb-Jun Civil war between Silver Branch and Southern Cross Consilii."},
+    { event: "Wreck of trans-tasman steamer SS Elingamite."},
+    { date: "25 November", event: "New Zealand general election, 1902." }
+  ]
+},
+{ year: "1903",
+  events: [
+    { event: "The Nexus appears in the Shadow above Auckland. Attempts to enter it are rebuffed by its passive defences. "},
+    { date: "31 March", event: "Richard Pearse achieves semi-controlled flight near Timaru." },
+    { date: "15 August", event: "The New Zealand All Blacks play their first Rugby Test Match against Australia's Wallabies at the Sydney Cricket Ground in Sydney, Australia. New Zealand win, 22-3." }
+  ]
+},
+{ year: "1904",
+  events: [
+    { event: "Argent Crucible Cabal established."}
+  ]
+},
+{ year: "1905",
+  events: [
+    { event: "New Zealand rugby team tours England and becomes known as the All Blacks."},
+    { event: "Old Age Pension increases to £26 per year; however, eligibility tightened."},
+    { date: "6 December", event: "New Zealand general election, 1905." }
+  ]
+},
+{ year: "1906",
+  events: [
+    { date: "10 June", event: "Richard Seddon dies and is succeeded by Joseph Ward as Premier." }
+  ]
+},
+{ year: "1907",
+  events: [
+    { event: "July Resolution passed to constitute New Zealand as a Dominion."},
+    { event: "Fire destroys Parliament buildings. Result of an attempt by Banishers to assassinate the Prime Minister Joseph Ward that was foiled by local Pentacle mages."},
+    { event: "Tohunga Suppression Act passed"},
+    { date: "26 September", event: "Dominion of New Zealand declared." }
+  ]
+},
+{ year: "1908",
+  events: [
+    { event: "Auckland to Wellington main trunk railway line opens."},
+    { event: "First New Zealanders compete at the Olympics as part of Australasian team."},
+    { event: "Harry Kerr is the first New Zealander to win an Olympic medal (a bronze in the Men's 3500 metre walk)." },
+    { event: "Blackball coal miner strike lasts 11 weeks."},
+    { event: "Ernest Rutherford is awarded the Nobel Prize in Chemistry."},
+    { event: "New Zealand's population reaches two million."},
+    { date: "17 November", event: "New Zealand general election, 1908." }
+  ]
+},
+{ year: "1909",
+  events: [
+    { event: "\"Red\" Federation of Labour formed." },
+    { event: "SS Penguin wrecked in Cook Strait, 75 people die." },
+    { event: "Compulsory military training introduced."},
+    { event: "Stamp–vending machine invented and manufactured in New Zealand."}
+  ]
+},
+{ year: "1910",
+  events: [
+    { event: "Halley's Comet sighted in New Zealand."}
+  ]
+},
+{ year: "1911",
+  events: [
+    { date: "7 December", event: "New Zealand general election, 1911." }
+  ]
+},
+{ year: "1912",
+  events: [
+    { event: "William Massey wins vote in the House and becomes Prime Minister; Reform Government formed."},
+    { event: "Waihi miners' strike."},
+    { event: "Malcolm Champion becomes first New Zealander to win an Olympic Gold Medal."}
+  ]
+},
+{ year: "1913",
+  events: [
+    { event: "Waterfront strikes in Auckland and Wellington."},
+    { event: "Mage disappearances are noted. No explanation found."}
+  ]
+},
+{ year: "1914",
+  events: [
+    { event: "World War I begins and German Samoa is occupied."},
+    { event: "New Zealand Expeditionary Force is despatched to Egypt."},
+    { event: "Huntly coal mine disaster, 86 miners die as well as a Pentacle cabal that was carrying out excavations within the mine and the Banisher cell that attacked them and caused the explosion." },
+    { date: "15 August", event: "Troops depart for Samoa." },
+    { date: "29 August", event: "New Zealand troops land unopposed in Apia." },
+    { event: "October 16,863 troops leave New Zealand for Europe."},
+    { date: "10 December", event: "New Zealand general election, 1914." }
+  ]
+},
+{ year: "1915",
+  events: [
+    { event: "New Zealand forces take part in Gallipoli campaign."},
+    { event: "Reform and Liberal parties form National War Cabinet."},
+    { event: "Britain announces its intention to purchase all New Zealand meat exports during war."},
+    { date: "25 April", event: "First landings at Gaba Tepe and Cape Helles on the Gallipoli Peninsula." },
+    { date: "27 April", event: "Counterattack launched by Turkish forces under the command of Mustafa Kemal." },
+    { date: "20 December", event: "Final withdraw of all troops from Anzac Cove." }
+  ]
+},
+{ year: "1916",
+  events: [
+    { event: "New Zealand troops transfer from Western Front."},
+    { event: "Conscription introduced."},
+    { event: "Labour Party formed."},
+    { event: "Lake Coleridge electricity supply scheme opened."},
+    { date: "10 June", event: "Passing of the Military Services Bill introduces conscription." },
+    { event: "July Battle of Romani defeats Turkish force advancing towards the Suez Canal."}
+  ]
+},
+{ year: "1917",
+  events: [
+    { event: "Battle of Passchendaele, 5,700 New Zealanders killed."},
+    { event: "Six o'clock public house closing introduced with support of Pentacle mages against the efforts of the Seers of the Throne."},
+    { event: "Lord Liverpool becomes first Governor-General."}
+  ]
+},
+{ year: "1918",
+  events: [
+    { event: "New Zealand Division in the Battle of the Somme."},
+    { event: "August “Orion” Nexus Array completed by Cavaliers of Trentham and the Voidwalkers."},
+    { event: "Covenant of Auckland formed between the Consilium of the Southern Cross and the local Nephandi."},
+    { event: "Nexus becomes accessible to local mages under the jurisdiction of the Covenant."},
+    { event: "End of World War I."},
+    { event: "Influenza epidemic in which an estimated 26,000 die."},
+    { event: "Creation of power boards for electricity distribution."},
+    { event: "Prohibition petition with 442,001 signatures presented to Parliament."}
+  ]
+},
+{ year: "1919",
+  events: [
+    { event: "Women eligible for election to Parliament."},
+    { event: "Massey signs Treaty of Versailles."},
+    { event: "Watchers Cabal established."},
+    { event: "First official airmail flight from Auckland to Dargaville."},
+    { date: "17 December", event: "New Zealand general election, 1919." }
+  ]
+},
+{ year: "1920",
+  events: [
+    { event: "Anzac Day established."},
+    { event: "New Zealand gets League of Nations mandate to govern Western Samoa."},
+    { event: "First aeroplane flight across Cook Strait."},
+    { event: "New Zealand sents first team to Olympic Games (previously they have competed as part of Australasian team)."},
+    { event: "Clarence Hadfield D'Arcy wins first Olympic medal for New Zealand."}
+  ]
+},
+{ year: "1921",
+  events: [
+    { event: "New Zealand Division of the Royal Navy established."},
+    { event: "Ashwater Warren established within natural tunnels beneath Albert Park. A wretched hive of villainy containing illegal gambling dens, whorehouses and black market dealers that the constabulary weren’t able to effectively remove."}
+  ]
+},
+{ year: "1922",
+  events: [
+    { event: "Meat Producers' Board placed in control of meat exports. Board is under the influence of the Auckland Nephandi, who are using it to control the spread of meat based abyssal incursions from New Zealand."},
+    { date: "7 December", event: "New Zealand general election, 1922." }
+  ]
+},
+{ year: "1923",
+  events: [
+    { event: "Otira tunnel opens. Ross Dependency proclaimed."}
+  ]
+},
+{ year: "1924",
+  events: [
+    { event: "All Black 'Invincibles' tour of Britain and France."}
+  ]
+},
+{ year: "1925",
+  events: [
+    { date: "4 November", event: "General election won by the Reform party under Gordon Coates." }
+  ]
+},
+{ year: "1926",
+  events: [
+    { event: "An increase noted in the number of mages that seem to be going missing. Blame placed on Banishers and total of eight are located and killed before the disappearances seem to stop."},
+    { event: "National public broadcasting begins under auspices of Radio Broadcasting Co. Ltd."}
+  ]
+},
+{ year: "1927",
+  events: [
+    {date: "3 July", event: "Nothing happens."} 
+  ]
+},
+{ year: "1928",
+  events: [
+    { event: "New Zealand Summer Time introduced."},
+    { event: "Charles Kingsford Smith completes first flight across Tasman Sea."},
+    { date: "14 December", event: "General election won by new United Party." },
+    { event: "Ted Morgan wins first Olympic Gold Medal for New Zealand."}
+  ]
+},
+{ year: "1929",
+  events: [
+    { event: "Economic depression worsens."},
+    { event: "Severe earthquake in Murchison - Karamea district, 34 people die." },
+    { event: "First health stamps issued."}
+  ]
+},
+{ year: "1930",
+  events: [
+    { event: "Unemployment Board set up to provide relief work."},
+    { event: "Greenwood Hospital in the Bombay Hills converted from a sanatorium to an asylum to cope with Auckland’s burgeoning number of mental health patients."}
+  ]
+},
+{ year: "1931",
+  events: [
+    { event: "Napier earthquake, 612 die."},
+    { event: "Substantial percentage reductions in public service wages and salaries."},
+    { event: "Airmail postage stamps introduced."},
+    { event: "Partington’s Windmill in Auckland burnt down. Argent Crucible cabal destroyed."},
+    { date: "2 December", event: "General election won by newly formed Coalition Government under George Forbes." }
+  ]
+},
+{ year: "1932",
+  events: [
+    { event: "Compulsory arbitration of industrial disputes abolished."},
+    { event: "Unemployed riots in Auckland, Dunedin and Christchurch. Banishers attack mage sanctums across the country under the cover of these riots."},
+    { event: "Bocage cell established."},
+    { event: "Reductions in old-age and other pensions."},
+    { event: "Distinctive New Zealand coins first issued, see New Zealand pound."}
+  ]
+},
+{ year: "1933",
+  events: [
+    { date: "9 September", event: "Elizabeth McCombs becomes first woman MP." }
+  ]
+},
+{ year: "1934",
+  events: [
+    { event: "Reserve Bank and Mortgage Corporation established."},
+    { event: "First trans-Tasman airmail."}
+  ]
+},
+{ year: "1935",
+  events: [
+    { event: "Air services begin across Cook Strait."},
+    { date: "24 November", event: "New Zealand Post Office jams 1ZB radio broadcast by Colin Scrimgeour (Uncle Scrim)." },
+    { date: "27 November", event: "General election: First Labour Government elected under Michael Joseph Savage." }
+  ]
+},
+{ year: "1936",
+  events: [
+    { event: "Reserve Bank taken over by state."},
+    { event: "State housing programme launched."},
+    { event: "Celestine Staff Cabal Established."},
+    { event: "Guaranteed prices for dairy products introduced."},
+    { event: "National Party formed from former Coalition MPs."},
+    { event: "Inter-island trunk air services introduced."},
+    { event: "Jack Lovelock wins Olympic gold and sets world record for 1500m."},
+    { event: "Jean Batten's record flight from England."},
+    { event: "Working week reduced from 44 to 40 hours." }
+  ]
+},
+{ year: "1937",
+  events: [
+    { event: "April Federation of Labour unifies trade union movement."},
+    { event: "RNZAF set up as separate branch of armed forces."},
+    { event: "March Free Milk in schools introduced."}
+  ]
+},
+{ year: "1938",
+  events: [
+    { event: "Social Security Act establishes revised pensions structure and the basis of a national health service."},
+    { event: "Import and exchange controls are introduced."},
+    { event: "Nazi sleepwalker agent discovered in Napier by local mages. Taken into custody and interrogated, but no useful information obtained before death of agent."},
+    { date: "15 October", event: "General election, Labour re-elected." }
+  ]
+},
+{ year: "1939",
+  events: [
+    { event: "Second New Zealand Expeditionary Force formed."},
+    { event: "Bulk purchases of farm products by Great Britain."},
+    { event: "The disappearance of several more mages leads to widespread paranoia and finger-pointing. Numerous supernaturals are captured and killed by the mages of the city, but no conclusive explanation is ever determined."},
+    { event: "Magnificent Seven Cabal established."},
+    { date: "3 September", event: "War declared on Germany" },
+    { date: "7 September", event: "First New Zealander (An officer flying with the RAF) taken prisoner of war." },
+    { date: "12 September", event: "Enlistment in the 2nd New Zealand Expeditionary Force begins." },
+    { date: "4 October", event: "Government announces the formation of a Māori Battalion for 2 NZEF" },
+    { date: "20 October", event: "Army enlisted to clear Ashwater Warren under Albert Park of civilians. Tunnels re-adapted and extended to serve as a bunker complex." },
+    { date: "23 November", event: "Bernard Freyberg is appointed to commander of 2 NZEF" },
+    { date: "13 December", event: "HMNZS Achilles takes part in The Battle of the River Plate." }
+  ]
+},
+{ year: "1940",
+  events: [
+    { date: "5 January", event: "First Echelon of the 2NZEF leaves New Zealand for the Middle East." },
+    { date: "12 February", event: "The main body of the First Echelon of the 2NZEF, arrives at Maadi Camp in Egypt." },
+    { date: "27 March", event: "Prime Minister Michael Joseph Savage dies" },
+    { date: "1 April", event: "Peter Fraser becomes Prime Minister." },
+    { date: "1 April", event: "Formation of No. 75 (NZ) Squadron of the RAF" },
+    { date: "11 June", event: "New Zealand declares war on Italy." },
+    { date: "19 June", event: "RMS Niagara hits a mine off Bream Head, Northland" },
+    { date: "2 August", event: "Home Guard established." },
+    { date: "20 August", event: "German raider Orion sinks the steamer Turakina off Cape Egmont." },
+    { date: "October", event: "Stanley Graham kills 7 in shooting spree near Hokitika" },
+    { date: "25 November", event: "Steamer Holmwood sunk by German raiders off the Chatham Islands." },
+    { date: "27 November", event: "Rangitane sunk by German raiders 480 km from East Cape" },
+    { date: "8 December", event: "New Zealand steamer Komata sunk by German raiders off Nauru" },
+    { event: "Sidney Holland becomes Leader of Opposition."},
+    { event: "Conscription for military service."},
+    { event: "German mines laid across Hauraki Gulf."}
+  ]
+},
+{ year: "1941",
+  events: [
+    { event: "May-June New Zealand forces suffer heavy losses in the Battle of Crete."},
+    { date: "8 December", event: "New Zealand declares war on Japan following the attack on Pearl Harbor." },
+    { event: "Māori War Effort Organisation set up."},
+    { event: "Pharmaceutical and general practitioner medical benefits introduced."}
+  ]
+},
+{ year: "1942",
+  events: [
+    { event: "Economic stabilisation."},
+    { event: "New Zealand troops in First and Second Battles of El Alamein."},
+    { event: "Food rationing introduced."},
+    { event: "Mobilisation of women for essential work."},
+    { date: "12 June", event: "First 5 ships of American troops from the 37th US Army Division land in Auckland." },
+    { date: "14 June", event: "First American Marines from the 1st Corps Division land in Wellington." }
+  ]
+},
+{ year: "1943",
+  events: [
+    { event: "New Zealand troops take part in invasion of Italy."},
+    { event: "February Mutiny by Japanese prisoners of war at Featherston prisoner of war camp camp results in 96 Japanese dead, 122 wounded, plus 3 dead and 22 injured guards." },
+    { date: "3 April", event: "Battle of Manners Street between American and New Zealand servicemen" },
+    { date: "12 May", event: "Nazi mages attack the Foxlight Chancery on Ponsonby Rd. In the battle sixteen Covenant mages and five Nazi mages die and the extradimensional space that the sanctum exists in is distorted and fractured by the paradox generated in the battle." },
+    { date: "20 June", event: "Several Marines drown during landing exercises at Paekakariki." },
+    { event: "July Timori Banishers accepted into the Covenant as recognition of their help in fighting off the Nazi mages. Several mages leave Auckland for Wellington in disgust at this turn of events."},
+    { date: "28 August", event: "Eleanor Roosevelt arrives in New Zealand for visit." },
+    { date: "3 September", event: "Eleanor Roosevelt flies out from Auckland." },
+    { date: "25 September", event: "General election, Labour re-elected." }
+  ]
+},
+{ year: "1944",
+  events: [
+    { event: "Australia-New Zealand Agreement provides for co-operation in the South Pacific."},
+    { event: "Western Park declared off limits for construction due to presence of unidentifiable anomalies. Area converted into parkland instead."}
+  ]
+},
+{ year: "1945",
+  events: [
+    { event: "New Zealand signs United Nations charter."},
+    { event: "Māori Social and Economic Advancement Act passed."},
+    { event: "National Airways Corporation founded."}
+  ]
+},
+{ year: "1946",
+  events: [
+    { event: "Family benefit of £1 per week becomes universal."},
+    { event: "Bank of New Zealand nationalised."},
+    { date: "24 November", event: "New Zealand general election, 1946." },
+    { date: "20 August", event: "Railway disaster in Manawatu Gorge" }
+  ]
+}
+]
+},
+{ name: "Full Independence (1947 to 1983)",
+  events: [
+{ year: "1947",
+  events: [
+    { event: "Statute of Westminster adopted with the Statute of Westminster Adoption Act 1947, passed by New Zealand Parliament."},
+    { event: "New Zealand Constitution Amendment (Request and Consent) Act 1947 passed, granting Parliament of New Zealand the ability to amend the New Zealand Constitution Act 1852."},
+    { event: "First public performance by National Orchestra."},
+    { event: "Mabel Howard becomes first woman cabinet minister."},
+    { event: "Fire in Ballantyne's department store, Christchurch, 82 people die." }
+  ]
+},
+{ year: "1948",
+  events: [
+    { event: "British Nationality and New Zealand Citizenship Act 1948 passed."},
+    { event: "Protest campaign against exclusion of Māori players from rugby tour of South Africa."},
+    { event: "Polio epidemic closes schools."},
+    { event: "Mount Ruapehu and Mount Ngauruhoe erupt."},
+    { event: "Meat rationing ends."}
+  ]
+},
+{ year: "1949",
+  events: [
+    { date: "1 January", event: "New Zealanders become "British Subjects and New Zealand Citizens"" },
+    { event: "Referendum agrees to compulsory military training."},
+    { event: "New Zealand gets first four navy frigates."},
+    { date: "30 November", event: "General election: National Government elected." }
+  ]
+},
+{ year: "1950",
+  events: [
+    { event: "Naval and ground forces sent to Korean War."},
+    { event: "New Zealand Legislative Council abolished."},
+    { event: "Servants of the Tenth cabal established."},
+    { event: "Wool boom."}
+  ]
+},
+{ year: "1951",
+  events: [
+    { event: "Prolonged waterfront dispute, state of emergency proclaimed."},
+    { event: "ANZUS treaty signed between United States, Australia and New Zealand."},
+    { event: "Māori Women's Welfare League established."},
+    { date: "27 December", event: "New Zealand general election, 1951" }
+  ]
+},
+{ year: "1952",
+  events: [
+    { event: "Population reaches over three million."}
+  ]
+},
+{ year: "1953",
+  events: [
+    { event: "First tour by a reigning monarch."},
+    { event: "Edmund Hillary and Sherpa Tenzing Norgay first to climb Mount Everest."},
+    { event: "Railway disaster at Tangiwai, 189 people die." }
+  ]
+},
+{ year: "1954",
+  events: [
+    { event: "New Zealand signs South East Asia Collective Defence Treaty."},
+    { event: "Gains seat on United Nations Security Council."},
+    { date: "20 September", event: "In midst of moral panic, the Mazengarb Report is presented." },
+    { event: "Watchmen Inc Pylon established."},
+    { date: "13 November", event: "New Zealand general election, 1954." },
+    { event: "Social Credit gets 10 percent of vote in general election, but no seats in Parliament." }
+  ]
+},
+{ year: "1955",
+  events: [
+    { event: "Pulp and paper mill opens at Kawerau."},
+    { event: "Rimutaka rail tunnel opened."}
+  ]
+},
+{ year: "1956",
+  events: [
+    { event: "New Zealand troops sent to Malaya."},
+    { event: "Roxburgh and Whakamaru power stations in operation."}
+  ]
+},
+{ year: "1957",
+  events: [
+    { date: "17 February", event: "Last hanging, of Walter James Bolton. Methods of execution now limited to firing squad, lethal injection and gas chamber." },
+    { event: "Scott Base established in Ross Dependency."},
+    { event: "Court of Appeal constituted."},
+    { event: "Dairy products gain 10 years of unrestricted access to Britain." },
+    { date: "30 November", event: "General election, National loses election, Walter Nash leads Second Labour Government." }
+  ]
+},
+{ year: "1958",
+  events: [
+    { event: "PAYE tax introduced."},
+    { event: "Arnold Nordmeyer's \"Black Budget\"."},
+    { event: "First geothermal electricity generated at Wairakei."},
+    { event: "First heart-lung machine used at Greenlane Hospital, Auckland."},
+    { event: "Hamilton New Zealand Temple, the first temple of The Church of Jesus Christ of Latter-day Saints in the southern hemisphere, is built."}
+  ]
+},
+{ year: "1959",
+  events: [
+    { event: "Antarctic Treaty signed with other countries involved in scientific exploration in Antarctica."},
+    { event: "Auckland Harbour Bridge opened."}
+  ]
+},
+{ year: "1960",
+  events: [
+    { event: "Regular television programmes begin in Auckland."},
+    { event: "Government Service Equal Pay Act passed."},
+    { date: "26 November", event: "General election, National Government elected." },
+    { event: "Treasury leases New Zealand's first computer from IBM."}
+  ]
+},
+{ year: "1961",
+  events: [
+    { event: "New Zealand joins the International Monetary Fund."},
+    { event: "Wardens and Rehabilitation Oversight Group Pylon established."}
+  ]
+},
+{ year: "1962",
+  events: [
+    { event: "New Zealand troops sent to Malaysia during confrontation with Indonesia."},
+    { event: "Western Samoa becomes independent."},
+    { event: "Sir Guy Powles becomes first Ombudsman."},
+    { event: "New Zealand Māori Council established."},
+    { event: "Cook Strait rail ferry service begins."},
+    { event: "Taranaki gas well opens."}
+  ]
+},
+{ year: "1963",
+  events: [
+    { event: "Rakino Island purchased by Dr Maxwell Rickard for site of the Rakino Mental Health Hospital. "},
+    { date: "30 November", event: "New Zealand general election, 1963." }
+  ]
+},
+{ year: "1964",
+  events: [
+    { event: "Marsden Point oil refinery opens at Whangarei."},
+    { event: "Cook Strait power cables laid."},
+    { event: "Auckland's population reaches a million."}
+  ]
+},
+{ year: "1965",
+  events: [
+    { event: "NAFTA agreement negotiated with Australia."},
+    { event: "Support for United States in Vietnam; New Zealand combat force sent, protest movement begins."},
+    { event: "Magnificent Seven Cabal disbanded."},
+    { event: "Cook Islands becomes self-governing."}
+  ]
+},
+{ year: "1966",
+  events: [
+    { event: "International airport officially opens at Auckland."},
+    { event: "New Zealand labour force reaches two million."},
+    { event: "National Library of New Zealand created."},
+    { event: "Te Atairangi Kaahu becomes first Māori Queen."},
+    { date: "26 November", event: "New Zealand general election, 1966." }
+  ]
+},
+{ year: "1967",
+  events: [
+    { event: "Referendum extends hotel closing hours to 10pm."},
+    { date: "10 July", event: "Decimal currency introduced, the New Zealand Dollar." },
+    { event: "Lord Arthur Porritt becomes first New Zealand-born Governor-General."},
+    { event: "Breath and blood tests introduced for suspected drinking drivers."},
+    { event: "Denny Hulme becomes New Zealand's first (and currently only) Formula 1 World Champion." },
+  ]
+},
+{ year: "1968",
+  events: [
+    { event: "Inter-island ferry Wahine sinks in severe storm in Wellington Harbour, 91 people die." },
+    { event: "Three die in Inangahua earthquake."},
+    { event: "Black Flame cabal established."}
+  ]
+},
+{ year: "1969",
+  events: [
+    { event: "Vote extended to 20-year-olds."},
+    { event: "First output from Glenbrook Steel Mill."},
+    { date: "29 November", event: "General election, National wins fourth election in a row." }
+  ]
+},
+{ year: "1970",
+  events: [
+    { event: "Natural gas from Kapuni supplied to Auckland."},
+    { event: "Palatial Comforts Pylon established."}
+  ]
+},
+{ year: "1971",
+  events: [
+    { event: "New Zealand secures continued access of butter and cheese to the United Kingdom."},
+    { event: "Nga Tamatoa protest at Waitangi celebrations."},
+    { event: "Tiwai Point aluminium smelter begins operating."},
+    { event: "Warkworth satellite station begins operation."}
+  ]
+},
+{ year: "1972",
+  events: [
+    { event: "Values Party is formed."},
+    { event: "Equal Pay Act passed."},
+    { date: "25 November", event: "General election, Labour Government led by Norman Kirk elected." },
+    { event: "Green Strife Cabal established."}
+  ]
+},
+{ year: "1973",
+  events: [
+    { event: "Naval frigate despatched in protest against French nuclear testing in the Pacific."},
+    { event: "New Zealand's population reaches five million."},
+    { event: "Oil price hike means worst terms of trade in 30 years."},
+    { event: "Colour TV introduced."}
+  ]
+},
+{ year: "1974",
+  events: [
+    { date: "31 August", event: "Prime Minister Norman Kirk dies." },
+    { event: "Commonwealth Games held in Christchurch."},
+    { event: "The Tribunal cell established."}
+  ]
+},
+{ year: "1975",
+  events: [
+    { date: "4 January", event: "Lynne Cox became the first woman to swim across Cook Strait." },
+    { date: "14 September", event: "Māori land march protesting at land loss leaves Te Hapua" },
+    { date: "13 October", event: "Māori land march reaches Parliament building in Wellington, Whina Cooper presents a Memorial of Rights to the Prime Minister Bill Rowling and Māori Affairs Minister Matiu Rata." },
+    { event: "The Waitangi Tribunal is established."},
+    { event: "Second TV channel starts broadcasting."},
+    { date: "29 November", event: "New Zealand general election, 1975. Robert Muldoon becomes Prime Minister after National Party victory." }
+  ]
+},
+{ year: "1976",
+  events: [
+    { event: "New Zealand's national day, 6 February, renamed from 'New Zealand Day' to 'Waitangi Day'." },
+    { event: "Matrimonial Property Act passed."},
+    { event: "Pacific Islands \"overstayers\" deported."},
+    { event: "EEC import quotas for New Zealand butter set until 1980."},
+    { event: "Introduction of metric system of weights and measures."},
+    { event: "Subscriber toll dialling introduced."}
+  ]
+},
+{ year: "1977",
+  events: [
+    { event: "National Superannuation scheme begins."},
+    { event: "New Zealand signs the Gleneagles Agreement."},
+    { event: "The 200 nautical mile (370 km) exclusive economic zone (EEZ) is established." },
+    { event: "Aurorae cabal established."},
+    { date: "5 January", event: "Bastion Point occupied by protesters." }
+  ]
+},
+{ year: "1978",
+  events: [
+    { event: "Registered unemployed reaches 50,000."},
+    { event: "Watchers Cabal disbanded."},
+    { event: "New Zealand Film Commission established."},
+    { event: "Orphic Choir Cabal established."},
+    { date: "12 February", event: "34 arrested after protestors led by Eva Rickard set up camp on the Raglan golf course." },
+    { date: "25 May", event: "Army and Police remove protesters from Bastion Point, 378 arrests are made." },
+    { date: "25 November", event: "General election, National re-elected." }
+  ]
+},
+{ year: "1979",
+  events: [
+    { event: "Air New Zealand Flight 901 crashes on Mount Erebus, Antarctica, 257 people die." },
+    { event: "Carless days introduced to reduce petrol consumption."},
+    { event: "Fifth Gate Cabal established."},
+    { date: "7 November", event: "MP Matiu Rata resigns from the Labour Party to join Mana Motuhake Party." },
+    { event: "Nambassa 3 day music and alternatives festival held in Waihi. Largest event of its kind in New Zealand." },
+  ]
+},
+{ year: "1980",
+  events: [
+    { event: "Social Credit wins East Coast Bays by-election."},
+    { event: "Saturday trading partially legalised."},
+    { event: "Servants of the Tenth cabal disbanded."},
+    { event: "Eighty-day strike at Kinleith Mill."}
+  ]
+},
+{ year: "1981",
+  events: [
+    { event: "South African rugby team's tour brings widespread disruption."},
+    { event: "Springbok tour clash in Auckland results in several mage deaths as the Seers and Pentacle fight each other amidst the conflict."},
+    { date: "28 November", event: "New Zealand general election, 1981." }
+  ]
+},
+{ year: "1982",
+  events: [
+    { event: "CER agreement signed with Australia."},
+    { event: "First köhanga reo established."},
+    { event: "Year-long wage, price and rent freeze imposed lasts until 1984."},
+    { event: "First and only New Zealand Football Team to compete at Fifa World Cup Finals"}
+  ]
+},
+{ year: "1983",
+  events: [
+    { event: "Visit by nuclear-powered United States Navy frigate \"Texas\" sparks protests."},
+    { event: "Iron Gauntlet Cabal established."},
+    { event: "Official Information Act replaces Official Secrecy Act."},
+    { event: "Significant disturbances in the Underworld as a Cerebrus causes havoc in Auckland and its Underworld. The entity is eventually banished back to the depths of the Underworld by a combined effort by the Moros of the city and several mortal necromancers."},
+    { event: "Orphic Choir Cabal disbanded."},
+    { event: "New Zealand Party founded."}
+  ]
+}
+]
+},
+{ name: "Economic Restructuring (1984 to date)",
+  events: [
+{ year: "1984",
+  events: [
+    { event: "Te Hikoi ki Waitangi march and disruption of Waitangi Day celebrations."},
+    { event: "Auckland's population exceeds that of the South Island."},
+    { date: "14 July", event: "New Zealand general election, 1984 won by Labour under David Lange." },
+    { event: "Constitutional crisis follows general election; outgoing Prime Minister Robert Muldoon refuses to implement advice of Prime Minister elect David Lange."},
+    { event: "Government devalues New Zealand dollar by 20 percent."},
+    { date: "26 July", event: "David Lange becomes New Zealand's 32nd Prime Minister; Fourth Labour government formed." },
+    { event: "Finance Minister Roger Douglas begins deregulating the economy."},
+    { event: "New Zealand ratifies the United Nations Convention on the Elimination of All Forms of Discrimination Against Women."}
+  ]
+},
+{ year: "1985",
+  events: [
+    { event: "Anti-nuclear policy leads to refusal of a visit by the American warship, the USS Buchanan."},
+    { date: "10 July", event: "Greenpeace vessel Rainbow Warrior bombed and sunk by French DGSE agents in Auckland harbour." },
+    { event: "New Zealand dollar floated."},
+    { event: "First case of locally-contracted AIDS is reported."},
+    { event: "Capital punishment abolished."},
+    { event: "Waitangi Tribunal given power to hear grievances arising since 1840."},
+    { date: "20 November", event: "Archbishop Paul Reeves appointed Governor General." }
+  ]
+},
+{ year: "1986",
+  events: [
+    { event: "Homosexual Law Reform Act 1986 passed."},
+    { event: "Royal Commission reports in favour of an MMP (Mixed Member Proportional) electoral system."},
+    { event: "Jim Bolger becomes National Party leader."},
+    { event: "Soviet cruise ship, the Mikhail Lermontov, sinks in Marlborough Sounds."},
+    { event: "Goods and Services Tax introduced."},
+    { event: "First visit to New Zealand by the Pope."},
+    { event: "The Constitution Act ends the right of the British Parliament to pass laws for New Zealand."}
+  ]
+},
+{ year: "1987",
+  events: [
+    { event: "Share prices plummet by 59 percent in four months."},
+    { event: "Palatial Comforts Pylon destroyed."},
+    { event: "Wardens and Rehabilitation Oversight Group Pylon destroyed by fellow Seers along with the Seer Tetrarchs within it."},
+    { event: "Māori Language Act making Māori an official language passed."},
+    { event: "Anti-nuclear legislation enacted."},
+    { event: "First Lotto draw."},
+    { event: "New Zealand's first heart transplant is performed."},
+    { event: "New Zealand wins Rugby World Cup."},
+    { event: "Falcon’s Shadow Cabal established."},
+    { event: "Significant earthquake in the Bay of Plenty."},
+    { date: "15 August", event: "General election, Labour re-elected." }
+  ]
+},
+{ year: "1988",
+  events: [
+    { event: "Number of unemployed exceeds 200,000."},
+    { event: "Bastion Point land returned to Māori ownership."},
+    { event: "Combined Council of Trade Unions formed. Royal Commission on Social Policy issues April Report."},
+    { event: "Gibbs Report on hospital services and Picot Report on education published."},
+    { event: "State Sector Act passed."},
+    { event: "Management Advisory Group Pylon established."},
+    { event: "Cyclone Bola strikes northern North Island."},
+    { event: "Electrification of the central section of the North Island Main Trunk Railway completed."},
+    { event: "New Zealand Post closes 432 post offices." },
+    { event: "Fisheries quota package announced for Māori iwi."}
+  ]
+},
+{ year: "1989",
+  events: [
+    { event: "Prime Minister David Lange suggests formal withdrawal from ANZUS."},
+    { event: "Jim Anderton founds New Labour Party."},
+    { event: "Lange resigns and Geoffrey Palmer becomes Prime Minister."},
+    { event: "First annual balance of payments surplus since 1973."},
+    { event: "Reserve Bank Act sets bank's role as one of maintaining price stability."},
+    { event: "First school board elections under Tomorrow's Schools reforms."},
+    { event: "First elections under revised local government structure."},
+    { event: "Sunday trading begins."},
+    { event: "Third TV channel begins."},
+    { event: "Māori Fisheries Act passed."}
+  ]
+},
+{ year: "1990",
+  events: [
+    { event: "New Zealand celebrates its sesquicentennial."},
+    { event: "Māori leaders inaugurate National Congress of Tribes."},
+    { event: "Dame Catherine Tizard becomes first woman Governor-General."},
+    { event: "Economic Co-Development Fund Pylon formed."},
+    { event: "Geoffrey Palmer resigns as Prime Minister and is succeeded by Mike Moore."},
+    { event: "One and two cent coins are no longer legal tender."},
+    { event: "Commonwealth Games held in Auckland."},
+    { event: "Plan B cell formed."},
+    { event: "Telecom sold for $4.25 billion."},
+    { event: "Pay Television Network Sky TV began broadcasting."},
+    { event: "Big earthquake in Hawke's Bay."},
+    { date: "27 October", event: "New Zealand general election, National Party has landslide victory. Jim Bolger becomes Prime Minister." },
+    { date: "13 November", event: "David Gray kills 24 at Aramoana, before police shoot him dead." }
+  ]
+},
+{ year: "1991",
+  events: [
+    { event: "The Resource Management Act 1991 is enacted, rewriting planning law." },
+    { event: "First budget of new Finance Minister, Ruth Richardson. Welfare payments further reduced."},
+    { event: "The Alliance party is formed."},
+    { event: "Employment Contracts Act passed."},
+    { event: "Consumers Price Index has lowest quarterly increase for 25 years."},
+    { event: "Welfare payments cut."},
+    { event: "Number of unemployed exceeds 500,000 for the first time."},
+    { event: "New Zealand troops join multi-national force in the Gulf War."},
+    { event: "An avalanche on Aoraki/Mount Cook reduces its height by 10.5 metres."}
+  ]
+},
+{ year: "1992",
+  events: [
+    { event: "Government and Māori interests negotiate Sealord fisheries deal."},
+    { event: "Public health system reforms."},
+    { event: "State housing commercialised."},
+    { event: "Leaky building construction begins as a result of shoddy government control over low-quality building materials & unskilled labour. Spirits of decay and disease begin to multiply as a result."},
+    { event: "New Zealand gets seat on United Nations Security Council."},
+    { event: "Southdown Crew Cabal established."},
+    { event: "Student Loan system is started / Tertiary Fees raised"}
+  ]
+},
+{ year: "1993",
+  events: [
+    { event: "Centennial of women's suffrage celebrated."},
+    { event: "New Zealand First Party launched by Winston Peters."},
+    { event: "Carrington Hospital closes. Ownership transferred to Unitec."},
+    { date: "6 November", event: "General election won by National, without obtaining a majority." },
+    { event: "Progenitech cell established."},
+    { event: "Referendum favours MMP electoral system."},
+    { event: "Opposition MP Peter Tapsell becomes Speaker of the House, thus giving the government a majority."}
+  ]
+},
+{ year: "1994",
+  events: [
+    { event: "Government commits 500 soldiers to front-line duty in Bosnia." },
+    { event: "Government proposes $1 billion cap in plan for final settlement of Treaty of Waitangi claims."},
+    { event: "New Zealand's first casino opens in Christchurch."},
+    { event: "Rakino Mental Health Hospital closed. Island subdivided and sold off to private investors."},
+    { event: "David Bain is convicted of murdering five members of his family."},
+    { event: "First fast-ferry service begins operation across Cook Strait."}
+  ]
+},
+{ year: "1995",
+  events: [
+    { event: "Team New Zealand wins America's Cup."},
+    { event: "Occupation of Moutoa Gardens, Wanganui."},
+    { event: "Executor “Whitecross” installed as Hierarch of the Covenant by a clear majority vote."},
+    { event: "Waikato Raupatu Claims Settlement Act passed."},
+    { event: "New political parties form: the Conservatives, Christian Heritage and United New Zealand."},
+    { event: "Renewal of French nuclear tests results in New Zealand protest flotilla and navy ship "Tui" sailing for Moruroa Atoll."},
+    { event: "Commonwealth Heads of Government Meeting in Auckland, Nelson Mandela visits."},
+    { event: "Soul Crafters Cabal established."},
+    { event: "New Zealand contingent returns from Bosnia."},
+    { event: "Heavenly Sword Pylon established."}
+  ]
+},
+{ year: "1996",
+  events: [
+    { event: "Imported pests Mediterranean fruit flies and white-spotted tussock moths cause disruption to export trade and to Aucklanders."},
+    { event: "Kahurangi National Park, the 13th National Park, is opened in north-west Nelson."},
+    { event: "Waitangi Tribunal recommends generous settlement of Taranaki land claims."},
+    { event: "First legal sports betting at TAB."},
+    { event: "The commercial radio stations and networks owned by Radio New Zealand are sold to Clear Channel creating The Radio Network."},
+    { event: "Executor \"Whitecross\" steps down from position of Covenant Hierarch following the Red Worm Infestation debacle."},
+    { event: " $170 million Ngai Tahu settlement proposed, $40 million Whakatohea settlement announced." },
+    { date: "12 October", event: "First MMP election brings National/New Zealand First coalition government." }
+  ]
+},
+{ year: "1997",
+  events: [
+    { event: "America's Cup damaged in attack by a Māori activist."},
+    { event: "TV4 begins daily broadcasts."},
+    { event: "Customs Service cracks down on imported Japanese used cars following claims of odometer fraud."},
+    { event: "Auckland's Sky Tower is opened."},
+    { event: "Compulsory superannuation is rejected by a margin of more than nine to one in New Zealand's first postal referendum."},
+    { event: "Jim Bolger resigns as Prime Minister after losing support of the National Party caucus, and is replaced by New Zealand's first woman Prime Minister, Jenny Shipley."}
+  ]
+},
+{ year: "1998",
+  events: [
+    { event: "Auckland city businesses hit by a power cut lasting several weeks. The crisis of over a month results in an inquiry into Mercury Energy."},
+    { event: "The women's rugby team, the Black Ferns, become the world champions."},
+    { event: "Freerunners cell established"},
+    { event: "The National - New Zealand First coalition Government is dissolved leaving the Jenny Shipley led National Party as a minority government."},
+    { event: "TIP sculptures erected in Western Park in Ponsonby, Auckland."},
+    { event: "Several cases of tuberculosis discovered in South Auckland in the worst outbreak for a decade."},
+    { event: "The Hikoi of Hope marches to Parliament, calling for more support for the poor."},
+    { event: "Green Strife cabal disbanded."},
+    { event: "The government announces plans to buy 30 new fighter aircraft but says no to three new naval frigates." },
+    { event: "Prime TV launched"},
+    { event: "Road toll 1214"}
+  ]
+},
+{ year: "1999",
+  events: [
+    { event: "APEC is held in Auckland"},
+    { event: "Drinking age is lowered from 20 to 18yrs of age" },
+    { date: "27 November", event: "New Zealand general election, 1999. Helen Clark's Fifth Labour Government is sworn in." },
+    { event: "Road toll 1158"}
+  ]
+},
+{ year: "2000",
+  events: [
+    { event: "January The name suppression of American billionaire Peter Lewis, who was arrested and convicted of drug possession charges, causes controversy."},
+    { event: "Silver Compass Cabal established."},
+    { event: "Tree on One Tree Hill cut down by Maori activist."}
+  ]
+},
+{ year: "2001",
+  events: [
+    { event: "Interest accrual is removed from student loans while studying. Students who accrued interest prior to 2001 are still required to pay." },
+    { event: "Shortland St Hospital in Ferndale, Auckland, is purchased by the government to cater as a public hospital for the residents of West Auckland."},
+    { event: "Soul Thief kills several members of The Agency cabal, almost wiping out the cabal."},
+    { event: "Air New Zealand bailout, government purchases a 76.5% share in the company"}
+  ]
+},
+{ year: "2002",
+  events: [
+    { event: "Kiwibank is formed"},
+    { date: "30 June", event: "The population of Canterbury reaches 750,000." },
+    { date: "27 July", event: "2002 general election, Labour returned for a second term; National records worst result since 1930s." },
+    { event: "Plan B cell disbanded."},
+    { event: "Praetorian Ministry dispatches Strike Team Vermillion to Auckland to locate and eliminate as much of the local Covenant as they can."}
+  ]
+},
+{ year: "2003",
+  events: [
+    { event: "Population of New Zealand exceeds 6 million."},
+    { event: "Strike Team Vermillion attacks the Bad Company Pylon Sanctum at Papakura Army Base, eliminating the entire pylon with the exception of one apprentice. The Covenant is warned and rapidly assembled a counter-strike team that engages the pylon the next night. The Strike Team is eliminated, but several Covenant mages die in the encounter. The event is covered up as a SAS training exercise. Fifth Gate Cabal disbanded."},
+    { event: "Prostitution Reform Act 2003 passed in parliament." },
+    { event: "Ghost Foxes Cabal established."},
+    { event: "Appeals to the Judicial Committee of the Privy Council abolished; Supreme Court of New Zealand established."}
+  ]
+},
+{ year: "2004",
+  events: [
+    { event: "Foreshore and Seabed Act passed."},
+    { event: "Civil Union Act 2004"},
+    { event: "Māori Party formed."},
+    { event: "Maori TV begins broadcasting"}
+  ]
+},
+{ year: "2005",
+  events: [
+    { date: "17 September", event: "2005 general election, Labour-led government returned for a third term with a narrow margin." },
+    { event: "Emily Jefferson Foundation Pylon established."}
+  ]
+},
+{ year: "2006",
+  events: [
+    { event: "Labour enacts its election promise to remove interest on loans to students living in New Zealand."},
+    { event: "Five cent coins are dropped from circulation and existing 10 cent, 20 cent and 50 cent coins are replaced with smaller coins." },
+    { date: "11 October", event: "$11.5 Billion dollar government surplus announced by Minister of Finance Dr Michael Cullen." },
+    { event: "South Island population Reaches 1.5 Million"}
+  ]
+},
+{ year: "2007",
+  events: [
+    { event: "Last Privy Council appeal results in David Bain's convictions for the murder of his family being quashed; re-trail ordered by the Solicitor-General of New Zealand."},
+    { event: "KiwiSaver retirement savings scheme introduced."},
+    { event: "The Church of Scientology relocate to their present headquarters within the former site of Whitecliffe Art School in Grafton."},
+    { event: "Freeview is launched, providing free-to-air digital television."},
+    { date: "2 July", event: "Willie Apiata VC receives first Victoria Cross for NZ since World War Two." }
+  ]
+},
+{ year: "2008",
+  events: [
+    { event: "Destiny City constructed in South Auckland by Destiny Church. Accommodation in the gated community caters for up to 4000 people."},
+    { date: "1 January", event: "Electoral Finance Act enacted." },
+    { date: "11 January", event: "Mountaineer Sir Edmund Hillary dies." },
+    { event: "Westie Boyz Cabal established."},
+    { date: "8 November", event: "General election. The National party gains the largest share ending 9 years of Labour' led government." },
+    { date: "27 November", event: "XL Airways Germany A320 Flight 888T, an aeroplane owned by Air New Zealand crashes in the Mediterranean Sea off the south coast of France, killing all seven on board, 5 of whom are New Zealanders." },
+    { event: "Helen Clark is Administrator of the UN Development Program (ranking third in the UN office)"},
+    { event: "National reintroduces Knighthood after 6 years since Labour Abolishes it." }
+  ]
+},
+{ year: "2009",
+  events: [
+    { event: "Elliot Tower constructed in the Auckland CBD. Highest residential building in New Zealand, and second highest building overall."},
+    { event: "March David Bain retrial commences resulting in a finding of not guilty on all charges."},
+    { date: "28 April", event: "First confirmed New Zealand case in the 2009 swine flu outbreak." },
+    { event: "Astral Guard Cabal established."}
+  ]
+}
+]
+}
+}
+]
+---
