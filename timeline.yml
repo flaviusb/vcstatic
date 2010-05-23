@@ -1520,6 +1520,12 @@ events: [
     { date: "28 April", event: "First confirmed New Zealand case in the 2009 swine flu outbreak." },
     { event: "Astral Guard Cabal established."}
   ]
+},
+{ year: "2010",
+  events: [
+    { date: "20 March", event: "The current Hierarch, Winchester, causes a minor eruption of Rangitoto in a display of Forces magic. Civil Defense are put in a state of alert for the next month."},
+    { date: "22 May", event: "Rangitoto Lighthouse destroyed by a mysterious fire." }
+  ]
 }
 ]
 }
